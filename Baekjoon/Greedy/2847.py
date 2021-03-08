@@ -10,3 +10,4 @@ for i in range(N-1,0,-1):#3부터 0까지 -1간격으로 포문
         data[i-1]=data[i]-1
 
 print(cnt)
+
